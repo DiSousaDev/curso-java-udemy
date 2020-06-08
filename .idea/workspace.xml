@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9869d42-5b42-4666-ab8b-84cdcce5c51b" name="Default Changelist" comment="Atualizando Curso">
-      <change afterPath="$PROJECT_DIR$/src/Aula219/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula220/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +48,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Aula207" />
-      <recent name="Aula199" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Aula215" />
-      <recent name="Aula122" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Workspace-IntelliJ IDEA\curso-java-udemy\src\Aula217" />
       <recent name="D:\Workspace-IntelliJ IDEA\curso-java-udemy\src\Aula216" />
@@ -63,14 +55,23 @@
       <recent name="D:\Workspace-IntelliJ IDEA\curdo-java-udemy\src\Aula122" />
       <recent name="D:\Workspace-IntelliJ IDEA\curdo-java-udemy\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Aula220" />
+      <recent name="Aula215" />
+      <recent name="Aula122" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Aula207" />
+      <recent name="Aula199" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Program (5)">
-    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula212.Program" />
+  <component name="RunManager" selected="Application.Program (1)">
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula220.Program" />
       <module name="curso-java-udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula212.*" />
+          <option name="PATTERN" value="Aula220.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program (5)" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program (4)" />
         <item itemvalue="Application.Program (3)" />
-        <item itemvalue="Application.Program (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +251,7 @@
       <workItem from="1591467814083" duration="11453000" />
       <workItem from="1591504218932" duration="3002000" />
       <workItem from="1591558820992" duration="4839000" />
-      <workItem from="1591639527740" duration="661000" />
+      <workItem from="1591639527740" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizando Curso">
       <created>1582433111873</created>
@@ -305,29 +306,29 @@
     </state>
     <state x="686" y="196" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585797869142" />
     <state x="549" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583447273327" />
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1591639979069">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1591640356480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="265" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585962709083" />
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591639979069" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591640356480" />
     <state width="1877" height="294" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591583869237" />
-    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1591639979069">
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1591640356480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="265" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585962709083" />
-    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591639979069" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591640356480" />
     <state width="1877" height="294" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591583869236" />
-    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1591639979069">
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1591640356480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="265" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585962709083" />
-    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591639979069" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591640356480" />
     <state width="1877" height="294" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591583869236" />
-    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1591639979069">
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1591640356480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="265" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585962709083" />
-    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591639979069" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591640356480" />
     <state width="1877" height="294" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1591583869237" />
     <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1591504521425">
       <screen x="0" y="0" width="1920" height="1040" />
