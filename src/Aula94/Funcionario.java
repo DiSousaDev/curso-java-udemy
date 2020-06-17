@@ -33,7 +33,7 @@ public class Funcionario {
     }
 
     public void reajustarSalario(double percentual){
-        salario += salario *percentual /100;
+        salario += salario * percentual /100;
     }
 
     public String toString() {
